@@ -1,0 +1,16 @@
+dateparser
+seaborn
+sqlparse
+tiktoken
+tabulate
+python-Levenshtein
+spacy
+fire
+openai==0.28
+fuzzywuzzy
+pandasql
+transformers
+chromadb==0.3.20
+langchain==0.0.197
+gdown
+wptools
