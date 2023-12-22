@@ -109,7 +109,7 @@ CAESURA is a LLM-driven query planner for multi-modal data systems. This is the 
 
 ## Reference
 
-If you use the code or the benchmarks of this repository then please cite  our paper:
+If you use the code or the benchmarks of this repository then please cite our paper:
 
 ```bib
 @inproceedings{caesura,

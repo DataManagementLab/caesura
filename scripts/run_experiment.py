@@ -4,9 +4,9 @@ import pathlib
 import re
 import numpy as np
 import fire
-from database_gpt.main import Caesura
+from caesura.main import Caesura
 
-from database_gpt.scenarios import get_database
+from caesura.scenarios import get_database
 
 
 forbidden_queries = {}
