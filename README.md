@@ -23,7 +23,7 @@ CAESURA is a LLM-driven query planner for multi-modal data systems. This is the 
 
 1. **Get the datasets**
 
-    1. **Generate the Rotowire Dataset.**
+    1. **Generate the Rotowire Dataset (Wiseman et al, 2017).**
 
         ```sh
         python scripts/rotowire/download.py
