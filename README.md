@@ -12,6 +12,7 @@ CAESURA is a LLM-driven query planner for multi-modal data systems. This is the 
 
     ```sh
     git clone git@github.com:DataManagementLab/caesura.git
+    cd caesura
     conda create -n caesura
     conda activate caesura
     conda install python=3.11 pip
@@ -108,7 +109,7 @@ CAESURA is a LLM-driven query planner for multi-modal data systems. This is the 
 
 ## Reference
 
-If you find this repository useful in your work, please cite our paper:
+If you use the code or the benchmarks of this repository then please cite  our paper:
 
 ```bib
 @inproceedings{caesura,
